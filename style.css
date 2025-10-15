@@ -987,7 +987,7 @@ footer {
 
   #mainlogo {
     width: 50%;
-    margin-bottom: -48%;
+    margin-bottom: -44%;
     margin-left: 3%;
   }
 
@@ -1061,7 +1061,7 @@ footer {
   .about-text-block {
     width: 100%;
     margin-left: 3%;
-    margin-top: -270%;
+    margin-top: -400%;
   }
 
   .section-title {
@@ -1069,16 +1069,13 @@ footer {
   }
 
   .about-image-block {
-    order: -1;
-    margin-bottom: 2rem;
-    margin-top: 200%;
-    padding-top: 60%;
+    margin-top: 320%;
   }
 
   /* --- Options Page --- */
 
   .options-page {
-    margin-top: 60%;
+    margin-top: 40%;
   }
   .option-cards-grid {
     grid-template-columns: 1fr;
